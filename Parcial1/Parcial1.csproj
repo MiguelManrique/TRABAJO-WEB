@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B87477E1-C1E0-4C93-AC49-2D3E965A1AC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Parcial1</RootNamespace>
+    <AssemblyName>Parcial1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdministrador.Designer.cs">
+      <DependentUpon>frmAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBitacora.Designer.cs">
+      <DependentUpon>frmBitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCredenciales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCredenciales.Designer.cs">
+      <DependentUpon>frmCredenciales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCronograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCronograma.Designer.cs">
+      <DependentUpon>frmCronograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIncidencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIncidencia.Designer.cs">
+      <DependentUpon>frmIncidencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIncidenciaPorCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIncidenciaPorCliente.Designer.cs">
+      <DependentUpon>frmIncidenciaPorCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupervisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupervisor.Designer.cs">
+      <DependentUpon>frmSupervisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTablasMaestras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTablasMaestras.Designer.cs">
+      <DependentUpon>frmTablasMaestras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAdministrador.resx">
+      <DependentUpon>frmAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBitacora.resx">
+      <DependentUpon>frmBitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCredenciales.resx">
+      <DependentUpon>frmCredenciales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCronograma.resx">
+      <DependentUpon>frmCronograma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIncidencia.resx">
+      <DependentUpon>frmIncidencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIncidenciaPorCliente.resx">
+      <DependentUpon>frmIncidenciaPorCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupervisor.resx">
+      <DependentUpon>frmSupervisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTablasMaestras.resx">
+      <DependentUpon>frmTablasMaestras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\DataSources\Entities.BitacoraSeguimiento.datasource" />
+    <None Include="Properties\DataSources\Entities.Cliente.datasource" />
+    <None Include="Properties\DataSources\Entities.Estado.datasource" />
+    <None Include="Properties\DataSources\Entities.Incidencia.datasource" />
+    <None Include="Properties\DataSources\Entities.IncidenciasDBEntities.datasource" />
+    <None Include="Properties\DataSources\Entities.RecursoDigital.datasource" />
+    <None Include="Properties\DataSources\Entities.TipoUsuario.datasource" />
+    <None Include="Properties\DataSources\Entities.Usuario.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
+      <Project>{6b7f1580-bd4a-4d79-b26e-5f731546d260}</Project>
+      <Name>BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{c301c263-3ba3-4404-8fab-93184d8e085d}</Project>
+      <Name>Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

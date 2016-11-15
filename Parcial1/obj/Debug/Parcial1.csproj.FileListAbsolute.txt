@@ -1,0 +1,303 @@
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.frmEntidad1.resources
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\bin\Debug\Entities.dll
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\bin\Debug\Entities.pdb
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\wes_o\Desktop\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmAdministrador.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmBitacora.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaXCliente.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.3\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.3\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.3\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmAdministrador.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmBitacora.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaXCliente.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.dll
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.dll
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.xml
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.pdb
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmAdministrador.resources
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmBitacora.resources
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaXCliente.resources
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\Miguel\Desktop\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmAdministrador.resources
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmBitacora.resources
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCredenciales.resources
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaPorCliente.resources
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaXCliente.resources
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.dll
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.dll
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.xml
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.pdb
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmAdministrador.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmBitacora.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCredenciales.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaPorCliente.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaXCliente.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCronograma.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.5\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmTablasMaestras.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmAdministrador.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmBitacora.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCredenciales.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCronograma.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaPorCliente.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmTablasMaestras.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmAdministrador.resources
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmBitacora.resources
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCredenciales.resources
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCronograma.resources
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaPorCliente.resources
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmTablasMaestras.resources
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.dll
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.dll
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.xml
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.pdb
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.dll
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.dll
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.xml
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.pdb
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmAdministrador.resources
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmBitacora.resources
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCredenciales.resources
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCronograma.resources
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaPorCliente.resources
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmTablasMaestras.resources
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.dll
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.dll
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.dll
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.xml
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.xml
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.pdb
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmAdministrador.resources
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmBitacora.resources
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCredenciales.resources
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCronograma.resources
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaPorCliente.resources
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmTablasMaestras.resources
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+G:\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe.config
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.exe
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.dll
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Entities.dll
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.dll
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.dll
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\BusinessLogic.pdb
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\Entities.pdb
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.xml
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\bin\Debug\DataAccess.pdb
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmAdministrador.resources
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmBitacora.resources
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCredenciales.resources
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmCronograma.resources
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidencia.resources
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmIncidenciaPorCliente.resources
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmSupervisor.resources
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.frmTablasMaestras.resources
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Main.resources
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.Properties.Resources.resources
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.csproj.GenerateResource.Cache
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.exe
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Parcial1\obj\Debug\Parcial1.pdb

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="IncidenciasBDModelStoreContainer" CdmEntityContainer="IncidenciasBDEntities">
+    <EntitySetMapping Name="BitacoraSeguimiento">
+      <EntityTypeMapping TypeName="IncidenciasBDModel.BitacoraSeguimiento">
+        <MappingFragment StoreEntitySet="BitacoraSeguimiento">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdEvidencia" ColumnName="IdEvidencia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cliente">
+      <EntityTypeMapping TypeName="IncidenciasBDModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NombreCliente" ColumnName="NombreCliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Estado">
+      <EntityTypeMapping TypeName="IncidenciasBDModel.Estado">
+        <MappingFragment StoreEntitySet="Estado">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NombreEstado" ColumnName="NombreEstado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Evidencia">
+      <EntityTypeMapping TypeName="IncidenciasBDModel.Evidencia">
+        <MappingFragment StoreEntitySet="Evidencia">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Incidencia">
+      <EntityTypeMapping TypeName="IncidenciasBDModel.Incidencia">
+        <MappingFragment StoreEntitySet="Incidencia">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="IdEstado" ColumnName="IdEstado" />
+          <ScalarProperty Name="IdRecursosDigitales" ColumnName="IdRecursosDigitales" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="IdBitacoraSeguimiento" ColumnName="IdBitacoraSeguimiento" />
+          <ScalarProperty Name="IdSupervisor" ColumnName="IdSupervisor" />
+          <ScalarProperty Name="ICliente" ColumnName="ICliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RecursoDigital">
+      <EntityTypeMapping TypeName="IncidenciasBDModel.RecursoDigital">
+        <MappingFragment StoreEntitySet="RecursoDigital">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NombreRecurso" ColumnName="NombreRecurso" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TipoUsuario">
+      <EntityTypeMapping TypeName="IncidenciasBDModel.TipoUsuario">
+        <MappingFragment StoreEntitySet="TipoUsuario">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="TipoUsuario1" ColumnName="TipoUsuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuario">
+      <EntityTypeMapping TypeName="IncidenciasBDModel.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NombreAdmin" ColumnName="NombreAdmin" />
+          <ScalarProperty Name="PasswordAdmin" ColumnName="PasswordAdmin" />
+          <ScalarProperty Name="CodigoAdmin" ColumnName="CodigoAdmin" />
+          <ScalarProperty Name="IdTipoUsuario" ColumnName="IdTipoUsuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

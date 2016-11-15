@@ -1,0 +1,81 @@
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Entities\bin\Debug\Entities.dll
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Entities\bin\Debug\Entities.pdb
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Entities\obj\Debug\Entities.dll
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Entities\obj\Debug\Entities.pdb
+C:\Users\wes_o\OneDrive\documentos\visual studio 2013\Projects\Parcial1\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\wes_o\Desktop\TRABAJO WEB\Entities\bin\Debug\Entities.dll
+C:\Users\wes_o\Desktop\TRABAJO WEB\Entities\bin\Debug\Entities.pdb
+C:\Users\wes_o\Desktop\TRABAJO WEB\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\wes_o\Desktop\TRABAJO WEB\Entities\obj\Debug\Entities.dll
+C:\Users\wes_o\Desktop\TRABAJO WEB\Entities\obj\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Entities\bin\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Entities\bin\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Entities\obj\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\TRABAJO WEB\Entities\obj\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Entities\bin\Debug\Entities.dll.config
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Entities\bin\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Entities\bin\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Entities\bin\Debug\EntityFramework.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Entities\bin\Debug\EntityFramework.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Entities\obj\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version1.2\TRABAJO WEB\Entities\obj\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Entities\bin\Debug\Entities.dll.config
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Entities\bin\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Entities\bin\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Entities\bin\Debug\EntityFramework.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Entities\bin\Debug\EntityFramework.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Entities\obj\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.4\TRABAJO WEB\Entities\obj\Debug\Entities.pdb
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Entities\bin\Debug\Entities.dll.config
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Entities\bin\Debug\Entities.dll
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Entities\bin\Debug\Entities.pdb
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Entities\bin\Debug\EntityFramework.dll
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Entities\bin\Debug\EntityFramework.xml
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Entities\obj\Debug\Entities.dll
+C:\Users\wes_o\Desktop\APPWEBTRABAJO\TRABAJO WEB\Entities\obj\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Entities\bin\Debug\Entities.dll.config
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Entities\bin\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Entities\bin\Debug\Entities.pdb
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Entities\bin\Debug\EntityFramework.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Entities\bin\Debug\EntityFramework.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Entities\obj\Debug\Entities.dll
+C:\Users\Leonel\Desktop\Trabajo Parcial de APPWEB\Version 1.6\TRABAJO WEB\Entities\obj\Debug\Entities.pdb
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\Entities.dll.config
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\Entities.dll
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\Entities.pdb
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.dll
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.xml
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Entities\obj\Debug\Entities.dll
+C:\Users\wes_o\Desktop\Nueva carpeta\TRABAJO WEB\Entities\obj\Debug\Entities.pdb
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\Entities.dll.config
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\Entities.dll
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\Entities.pdb
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.dll
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.xml
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Entities\obj\Debug\Entities.dll
+C:\Users\alumnos\Desktop\Nueva carpeta\TRABAJO WEB\Entities\obj\Debug\Entities.pdb
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\Entities.dll.config
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\Entities.dll
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\Entities.pdb
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.dll
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.xml
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Entities\obj\Debug\Entities.dll
+C:\Users\Miguel\Desktop\app web\Nueva carpeta\TRABAJO WEB\Entities\obj\Debug\Entities.pdb

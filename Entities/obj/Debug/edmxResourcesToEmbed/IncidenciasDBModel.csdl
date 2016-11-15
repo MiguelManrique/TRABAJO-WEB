@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IncidenciasDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="IncidenciasDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BitacoraSeguimiento" EntityType="IncidenciasDBModel.BitacoraSeguimiento" />
+    <EntitySet Name="Cliente" EntityType="IncidenciasDBModel.Cliente" />
+    <EntitySet Name="Estado" EntityType="IncidenciasDBModel.Estado" />
+    <EntitySet Name="Incidencia" EntityType="IncidenciasDBModel.Incidencia" />
+    <EntitySet Name="RecursoDigital" EntityType="IncidenciasDBModel.RecursoDigital" />
+    <EntitySet Name="TipoUsuario" EntityType="IncidenciasDBModel.TipoUsuario" />
+    <EntitySet Name="Usuario" EntityType="IncidenciasDBModel.Usuario" />
+    <AssociationSet Name="FK_BitacoraSeguimiento_Incidencia" Association="IncidenciasDBModel.FK_BitacoraSeguimiento_Incidencia">
+      <End Role="Incidencia" EntitySet="Incidencia" />
+      <End Role="BitacoraSeguimiento" EntitySet="BitacoraSeguimiento" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_Cliente" Association="IncidenciasDBModel.FK_Incidencia_Cliente">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_Estado" Association="IncidenciasDBModel.FK_Incidencia_Estado">
+      <End Role="Estado" EntitySet="Estado" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_RecursoDigital" Association="IncidenciasDBModel.FK_Incidencia_RecursoDigital">
+      <End Role="RecursoDigital" EntitySet="RecursoDigital" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_Usuario" Association="IncidenciasDBModel.FK_Incidencia_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_TipoUsuario" Association="IncidenciasDBModel.FK_Usuario_TipoUsuario">
+      <End Role="TipoUsuario" EntitySet="TipoUsuario" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="BitacoraSeguimiento">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdIncidencia" Type="Int32" Nullable="false" />
+    <Property Name="Evidencia" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Incidencia" Relationship="IncidenciasDBModel.FK_BitacoraSeguimiento_Incidencia" FromRole="BitacoraSeguimiento" ToRole="Incidencia" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreCliente" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Incidencia" Relationship="IncidenciasDBModel.FK_Incidencia_Cliente" FromRole="Cliente" ToRole="Incidencia" />
+  </EntityType>
+  <EntityType Name="Estado">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreEstado" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Incidencia" Relationship="IncidenciasDBModel.FK_Incidencia_Estado" FromRole="Estado" ToRole="Incidencia" />
+  </EntityType>
+  <EntityType Name="Incidencia">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="IdEstado" Type="Int32" Nullable="false" />
+    <Property Name="IdRecursosDigitales" Type="Int32" Nullable="false" />
+    <Property Name="Descripcion" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IdSupervisor" Type="Int32" Nullable="false" />
+    <Property Name="ICliente" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="BitacoraSeguimiento" Relationship="IncidenciasDBModel.FK_BitacoraSeguimiento_Incidencia" FromRole="Incidencia" ToRole="BitacoraSeguimiento" />
+    <NavigationProperty Name="Cliente" Relationship="IncidenciasDBModel.FK_Incidencia_Cliente" FromRole="Incidencia" ToRole="Cliente" />
+    <NavigationProperty Name="Estado" Relationship="IncidenciasDBModel.FK_Incidencia_Estado" FromRole="Incidencia" ToRole="Estado" />
+    <NavigationProperty Name="RecursoDigital" Relationship="IncidenciasDBModel.FK_Incidencia_RecursoDigital" FromRole="Incidencia" ToRole="RecursoDigital" />
+    <NavigationProperty Name="Usuario" Relationship="IncidenciasDBModel.FK_Incidencia_Usuario" FromRole="Incidencia" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="RecursoDigital">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreRecurso" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Incidencia" Relationship="IncidenciasDBModel.FK_Incidencia_RecursoDigital" FromRole="RecursoDigital" ToRole="Incidencia" />
+  </EntityType>
+  <EntityType Name="TipoUsuario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TipoUsuario1" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Usuario" Relationship="IncidenciasDBModel.FK_Usuario_TipoUsuario" FromRole="TipoUsuario" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Codigo" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IdTipoUsuario" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Incidencia" Relationship="IncidenciasDBModel.FK_Incidencia_Usuario" FromRole="Usuario" ToRole="Incidencia" />
+    <NavigationProperty Name="TipoUsuario" Relationship="IncidenciasDBModel.FK_Usuario_TipoUsuario" FromRole="Usuario" ToRole="TipoUsuario" />
+  </EntityType>
+  <Association Name="FK_BitacoraSeguimiento_Incidencia">
+    <End Type="IncidenciasDBModel.Incidencia" Role="Incidencia" Multiplicity="1" />
+    <End Type="IncidenciasDBModel.BitacoraSeguimiento" Role="BitacoraSeguimiento" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Incidencia">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BitacoraSeguimiento">
+        <PropertyRef Name="IdIncidencia" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_Cliente">
+    <End Type="IncidenciasDBModel.Cliente" Role="Cliente" Multiplicity="1" />
+    <End Type="IncidenciasDBModel.Incidencia" Role="Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="ICliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_Estado">
+    <End Type="IncidenciasDBModel.Estado" Role="Estado" Multiplicity="1" />
+    <End Type="IncidenciasDBModel.Incidencia" Role="Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="IdEstado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_RecursoDigital">
+    <End Type="IncidenciasDBModel.RecursoDigital" Role="RecursoDigital" Multiplicity="1" />
+    <End Type="IncidenciasDBModel.Incidencia" Role="Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RecursoDigital">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="IdRecursosDigitales" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_Usuario">
+    <End Type="IncidenciasDBModel.Usuario" Role="Usuario" Multiplicity="1" />
+    <End Type="IncidenciasDBModel.Incidencia" Role="Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="IdSupervisor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_TipoUsuario">
+    <End Type="IncidenciasDBModel.TipoUsuario" Role="TipoUsuario" Multiplicity="1" />
+    <End Type="IncidenciasDBModel.Usuario" Role="Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoUsuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="IdTipoUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

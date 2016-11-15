@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bca6c96a8a4c459eaf87a691c795c035" Name="Diagram1" ZoomLevel="40">
+        <EntityTypeShape EntityType="IncidenciasDBModel.BitacoraSeguimiento" Width="1.5" PointX="7.5" PointY="1.75" />
+        <EntityTypeShape EntityType="IncidenciasDBModel.Cliente" Width="1.5" PointX="3" PointY="9.75" />
+        <EntityTypeShape EntityType="IncidenciasDBModel.Estado" Width="1.5" PointX="3" PointY="5" />
+        <EntityTypeShape EntityType="IncidenciasDBModel.Incidencia" Width="1.5" PointX="5.25" PointY="1" />
+        <EntityTypeShape EntityType="IncidenciasDBModel.RecursoDigital" Width="1.5" PointX="3" PointY="7.375" />
+        <EntityTypeShape EntityType="IncidenciasDBModel.TipoUsuario" Width="1.5" PointX="0.75" PointY="1.875" />
+        <EntityTypeShape EntityType="IncidenciasDBModel.Usuario" Width="1.5" PointX="3" PointY="1.5" />
+        <AssociationConnector Association="IncidenciasDBModel.FK_BitacoraSeguimiento_Incidencia" />
+        <AssociationConnector Association="IncidenciasDBModel.FK_Incidencia_Cliente" />
+        <AssociationConnector Association="IncidenciasDBModel.FK_Incidencia_Estado" />
+        <AssociationConnector Association="IncidenciasDBModel.FK_Incidencia_RecursoDigital" />
+        <AssociationConnector Association="IncidenciasDBModel.FK_Incidencia_Usuario" />
+        <AssociationConnector Association="IncidenciasDBModel.FK_Usuario_TipoUsuario" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

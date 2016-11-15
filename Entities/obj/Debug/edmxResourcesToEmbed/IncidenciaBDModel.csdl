@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IncidenciasBDModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BitacoraSeguimiento">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdEvidencia" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Evidencia" Relationship="Self.FK_BitacoraSeguimiento_Evidencia" FromRole="BitacoraSeguimiento" ToRole="Evidencia" />
+    <NavigationProperty Name="Incidencia" Relationship="Self.FK_Incidencia_BitacoraSeguimiento" FromRole="BitacoraSeguimiento" ToRole="Incidencia" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreCliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Incidencia" Relationship="Self.FK_Incidencia_Cliente" FromRole="Cliente" ToRole="Incidencia" />
+  </EntityType>
+  <EntityType Name="Estado">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreEstado" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Incidencia" Relationship="Self.FK_Incidencia_Estado" FromRole="Estado" ToRole="Incidencia" />
+  </EntityType>
+  <EntityType Name="Evidencia">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="BitacoraSeguimiento" Relationship="Self.FK_BitacoraSeguimiento_Evidencia" FromRole="Evidencia" ToRole="BitacoraSeguimiento" />
+  </EntityType>
+  <EntityType Name="Incidencia">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Fecha" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IdEstado" Type="Int32" Nullable="false" />
+    <Property Name="IdRecursosDigitales" Type="Int32" Nullable="false" />
+    <Property Name="Descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IdBitacoraSeguimiento" Type="Int32" Nullable="false" />
+    <Property Name="IdSupervisor" Type="Int32" Nullable="false" />
+    <Property Name="ICliente" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="BitacoraSeguimiento" Relationship="Self.FK_Incidencia_BitacoraSeguimiento" FromRole="Incidencia" ToRole="BitacoraSeguimiento" />
+    <NavigationProperty Name="Cliente" Relationship="Self.FK_Incidencia_Cliente" FromRole="Incidencia" ToRole="Cliente" />
+    <NavigationProperty Name="Estado" Relationship="Self.FK_Incidencia_Estado" FromRole="Incidencia" ToRole="Estado" />
+    <NavigationProperty Name="RecursoDigital" Relationship="Self.FK_Incidencia_RecursoDigital" FromRole="Incidencia" ToRole="RecursoDigital" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Incidencia_Usuario" FromRole="Incidencia" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="RecursoDigital">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreRecurso" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Incidencia" Relationship="Self.FK_Incidencia_RecursoDigital" FromRole="RecursoDigital" ToRole="Incidencia" />
+  </EntityType>
+  <EntityType Name="TipoUsuario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TipoUsuario1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Usuario_TipoUsuario" FromRole="TipoUsuario" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="NombreAdmin" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PasswordAdmin" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CodigoAdmin" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IdTipoUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Incidencia" Relationship="Self.FK_Incidencia_Usuario" FromRole="Usuario" ToRole="Incidencia" />
+    <NavigationProperty Name="TipoUsuario" Relationship="Self.FK_Usuario_TipoUsuario" FromRole="Usuario" ToRole="TipoUsuario" />
+  </EntityType>
+  <Association Name="FK_BitacoraSeguimiento_Evidencia">
+    <End Role="Evidencia" Type="Self.Evidencia" Multiplicity="1" />
+    <End Role="BitacoraSeguimiento" Type="Self.BitacoraSeguimiento" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Evidencia">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BitacoraSeguimiento">
+        <PropertyRef Name="IdEvidencia" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_BitacoraSeguimiento">
+    <End Role="BitacoraSeguimiento" Type="Self.BitacoraSeguimiento" Multiplicity="1" />
+    <End Role="Incidencia" Type="Self.Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BitacoraSeguimiento">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="IdBitacoraSeguimiento" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_Cliente">
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+    <End Role="Incidencia" Type="Self.Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="ICliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_Estado">
+    <End Role="Estado" Type="Self.Estado" Multiplicity="1" />
+    <End Role="Incidencia" Type="Self.Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="IdEstado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_RecursoDigital">
+    <End Role="RecursoDigital" Type="Self.RecursoDigital" Multiplicity="1" />
+    <End Role="Incidencia" Type="Self.Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RecursoDigital">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="IdRecursosDigitales" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Incidencia_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="1" />
+    <End Role="Incidencia" Type="Self.Incidencia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Incidencia">
+        <PropertyRef Name="IdSupervisor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_TipoUsuario">
+    <End Role="TipoUsuario" Type="Self.TipoUsuario" Multiplicity="1" />
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoUsuario">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="IdTipoUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="IncidenciasBDEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BitacoraSeguimiento" EntityType="Self.BitacoraSeguimiento" />
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" />
+    <EntitySet Name="Estado" EntityType="Self.Estado" />
+    <EntitySet Name="Evidencia" EntityType="Self.Evidencia" />
+    <EntitySet Name="Incidencia" EntityType="Self.Incidencia" />
+    <EntitySet Name="RecursoDigital" EntityType="Self.RecursoDigital" />
+    <EntitySet Name="TipoUsuario" EntityType="Self.TipoUsuario" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" />
+    <AssociationSet Name="FK_BitacoraSeguimiento_Evidencia" Association="Self.FK_BitacoraSeguimiento_Evidencia">
+      <End Role="Evidencia" EntitySet="Evidencia" />
+      <End Role="BitacoraSeguimiento" EntitySet="BitacoraSeguimiento" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_BitacoraSeguimiento" Association="Self.FK_Incidencia_BitacoraSeguimiento">
+      <End Role="BitacoraSeguimiento" EntitySet="BitacoraSeguimiento" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_Cliente" Association="Self.FK_Incidencia_Cliente">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_Estado" Association="Self.FK_Incidencia_Estado">
+      <End Role="Estado" EntitySet="Estado" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_RecursoDigital" Association="Self.FK_Incidencia_RecursoDigital">
+      <End Role="RecursoDigital" EntitySet="RecursoDigital" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Incidencia_Usuario" Association="Self.FK_Incidencia_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Incidencia" EntitySet="Incidencia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_TipoUsuario" Association="Self.FK_Usuario_TipoUsuario">
+      <End Role="TipoUsuario" EntitySet="TipoUsuario" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
